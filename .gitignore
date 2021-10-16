@@ -3,6 +3,7 @@
 
 # Text
 *.txt
+
 # Logs
 logs
 *.log
