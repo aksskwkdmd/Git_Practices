@@ -13,4 +13,4 @@
 * cd - 디렉토리 이동
 * ls - 디렉토리 및 파일 목록 출력
 * clear - 화면 지우기
-* git commit --amend 오타자수정
+* commit --amend 오타자수정
